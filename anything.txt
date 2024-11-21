@@ -1,3 +1,10 @@
 something changed 
 Anything happened?
+<<<<<<< HEAD
 Hello World 
+=======
+Hello World 
+Bye World
+Something Sensitive
+\asd
+>>>>>>> origin/main
