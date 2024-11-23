@@ -14,9 +14,7 @@ Bye WOrld HAHA
 dsa
 
 dsad
-<<<<<<< HEAD
 
 dsa
-=======
-asd
->>>>>>> 0fb194f (asd)
+
+das
