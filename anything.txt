@@ -1,7 +1,6 @@
 something changed 
 Anything happened?
 Hello World 
-<<<<<<< HEAD
 Bye World
 
 Something Wrong? 
@@ -13,9 +12,3 @@ Hello World
 Bye WOrld HAHA
 
 dsa
-=======
-Hello World 
-Bye World
-Something Sensitive
-\asd
->>>>>>> another
